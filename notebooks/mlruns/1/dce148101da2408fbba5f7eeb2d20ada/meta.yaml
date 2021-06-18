@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/felipesantana/dados/bootcamp/notebooks/mlruns/1/dce148101da2408fbba5f7eeb2d20ada/artifacts
+end_time: 1624030897229
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: dce148101da2408fbba5f7eeb2d20ada
+run_uuid: dce148101da2408fbba5f7eeb2d20ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624030897184
+status: 4
+tags: []
+user_id: zod
